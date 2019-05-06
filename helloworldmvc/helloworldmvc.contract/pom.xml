@@ -8,8 +8,9 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <groupId>fr.exia</groupId>
-  <artifactId>helloworldmvc.Contract</artifactId>
-  <name>helloworldmvc.Contract</name>
+  <artifactId>helloworldmvc.contract</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>helloworldmvc.contract</name>
   <url>http://maven.apache.org</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -23,17 +24,17 @@
     </dependency>
     <dependency>
     	<groupId>fr.exia</groupId>
-    	<artifactId>helloworldmvc.view</artifactId>
-    	<version>0.0.1-SNAPSHOT</version>
-    </dependency>
-    <dependency>
-    	<groupId>fr.exia</groupId>
     	<artifactId>helloworldmvc.model</artifactId>
     	<version>0.0.1-SNAPSHOT</version>
     </dependency>
     <dependency>
     	<groupId>fr.exia</groupId>
     	<artifactId>helloworldmvc.controller</artifactId>
+    	<version>0.0.1-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+    	<groupId>fr.exia</groupId>
+    	<artifactId>helloworldmvc.view</artifactId>
     	<version>0.0.1-SNAPSHOT</version>
     </dependency>
   </dependencies>

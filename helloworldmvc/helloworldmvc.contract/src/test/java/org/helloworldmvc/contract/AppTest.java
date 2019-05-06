@@ -1,4 +1,4 @@
-package org.helloworldmvc.Contract;
+package org.helloworldmvc.contract;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
